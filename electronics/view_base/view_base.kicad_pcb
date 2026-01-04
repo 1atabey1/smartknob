@@ -15759,79 +15759,12 @@
 	)
 	(footprint "BOM_Only:bom_only_no_pin"
 		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-0000622f3f33")
-		(at 120.4 71.8)
-		(property "Reference" "Z6"
-			(at 0 0.5 0)
-			(layer "F.Fab")
-			(uuid "c9e01923-3a6e-4fe5-9c56-b0eff1b9d24b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "RotorScrew (BOM-only)"
-			(at 0 -0.5 0)
-			(layer "F.Fab")
-			(uuid "ffb2e542-2ee7-4a0c-871a-fc5c73367a6c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "95526aae-5be1-44f4-a3e9-90a9a3a64652")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9d26769e-a92d-410e-8d8d-079cc7002032")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Note" "Screw: M1.6x3 (countersunk). LCSC C2931384 could work, but tall hex socket head leaves very little clearance for soldered screen PCB wires. Beware: long screws may scrape internal motor stator windings!"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0012d375-2a7c-4c89-81ed-43aad4700917")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/00000000-0000-0000-0000-000062311cef")
-		(sheetname "/")
-		(sheetfile "view_base.kicad_sch")
-		(attr smd)
-		(embedded_fonts no)
-	)
-	(footprint "BOM_Only:bom_only_no_pin"
-		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000622f3f37")
 		(at 121.9 71.8)
 		(property "Reference" "Z7"
 			(at 0 0.5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "bf474eed-ef4d-4e4d-b487-5566e1f98589")
 			(effects
 				(font
@@ -15843,6 +15776,7 @@
 		(property "Value" "RotorScrew (BOM-only)"
 			(at 0 -0.5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a8da0b49-dfef-4426-8a93-c858debb871d")
 			(effects
 				(font
@@ -15895,79 +15829,12 @@
 	)
 	(footprint "BOM_Only:bom_only_no_pin"
 		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-0000622f3f3b")
-		(at 123.4 71.8)
-		(property "Reference" "Z8"
-			(at 0 0.5 0)
-			(layer "F.Fab")
-			(uuid "a467596f-7502-4fc6-be93-e7fa777b05d7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "RotorScrew (BOM-only)"
-			(at 0 -0.5 0)
-			(layer "F.Fab")
-			(uuid "59a3ee7b-fca5-4689-9f1c-410fb92b414b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9eba3ae5-aa23-44e9-98c6-0bedc2d9e255")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "adca45cf-3f66-42dc-b814-c82306e6a3e8")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Note" "Screw: M1.6x3 (countersunk). LCSC C2931384 could work, but tall hex socket head leaves very little clearance for soldered screen PCB wires. Beware: long screws may scrape internal motor stator windings!"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a5d5e6a8-1949-43f5-a156-7a30ea70c590")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/00000000-0000-0000-0000-00006233c06f")
-		(sheetname "/")
-		(sheetfile "view_base.kicad_sch")
-		(attr smd)
-		(embedded_fonts no)
-	)
-	(footprint "BOM_Only:bom_only_no_pin"
-		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000622f6dc2")
 		(at 120.4 71.8)
 		(property "Reference" "Z9"
 			(at 0 0.5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "89548341-2b1d-46ee-8c2c-c6d01876559c")
 			(effects
 				(font
@@ -16048,6 +15915,7 @@
 		(property "Reference" "Z10"
 			(at 0 0.5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "dddba159-53bb-48ca-b97d-79fe43702b26")
 			(effects
 				(font
@@ -16059,6 +15927,7 @@
 		(property "Value" "BLDCMotor"
 			(at 0 -0.5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1451d327-11ae-4826-a11d-f3e5a73b2829")
 			(effects
 				(font
